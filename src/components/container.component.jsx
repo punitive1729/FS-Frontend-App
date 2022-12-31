@@ -4,7 +4,7 @@ import axios from 'axios';
 import { useRef, useState, useContext } from 'react';
 import { SuccessContext } from '../contexts/success.context';
 import Output from './output-container.component';
-const backendUrl = 'https://fs-app-pko-node.onrender.com/api/v1/files';
+const backendUrl = 'https://fs-app-pko.onrender.com/api/v1/files';
 
 const Container = () => {
   const [file, setFile] = useState(null);
