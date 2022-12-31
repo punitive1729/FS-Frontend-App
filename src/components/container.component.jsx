@@ -19,7 +19,7 @@ const Container = () => {
     console.log('Uploading..', file);
     if (!file) return;
     let formData = new FormData();
-    formData.append('file', file);
+    formData.append('file', file, file.name);
     try {
       const response = await axios.post(backendUrl, formData, {
         headers: {
