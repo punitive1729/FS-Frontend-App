@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FS-App/static/css/main.bcb20b3d.css",
+    "main.js": "/FS-App/static/js/main.4d052344.js",
+    "static/js/787.b3cd2f50.chunk.js": "/FS-App/static/js/787.b3cd2f50.chunk.js",
+    "static/media/upload.svg": "/FS-App/static/media/upload.13fb92009e0fce6d59ea1cde7984377a.svg",
+    "index.html": "/FS-App/index.html",
+    "main.bcb20b3d.css.map": "/FS-App/static/css/main.bcb20b3d.css.map",
+    "main.4d052344.js.map": "/FS-App/static/js/main.4d052344.js.map",
+    "787.b3cd2f50.chunk.js.map": "/FS-App/static/js/787.b3cd2f50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb20b3d.css",
+    "static/js/main.4d052344.js"
+  ]
+}
