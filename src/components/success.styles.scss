@@ -1,0 +1,38 @@
+.no-show {
+  visibility: hidden;
+  width: 30%;
+  height: 100px;
+  margin: 50px;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #4ce44c;
+}
+
+.show-success {
+  display: flex;
+  width: 30%;
+  height: 100px;
+  margin: 50px;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #4ce44c;
+}
+
+.show-fail {
+  display: flex;
+  width: 30%;
+  height: 100px;
+  margin: 50px;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: rgb(237, 85, 85);
+}
