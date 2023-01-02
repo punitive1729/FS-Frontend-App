@@ -39,7 +39,7 @@ const Container = () => {
       console.log('Error', err);
       setSuccess('show-fail');
       setFile(null);
-      setSuccessMessage(err.message);
+      setSuccessMessage(err.response.data.message);
       setDownloadLink(null);
       setTimeout(() => {
         setSuccess('no-show');

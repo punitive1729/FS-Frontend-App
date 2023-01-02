@@ -32,3 +32,9 @@ The frontend is connected to backend server deployed on **render.com** at https:
 ![sent-file.png](sent-file.png)
 
 This give us the download link to download the file
+
+3. Errors
+
+![no-file-found.png](no-file-found.png)
+
+![file-size-exceeded-limit](file-size-exceeded-limit.png)
