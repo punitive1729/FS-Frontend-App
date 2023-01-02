@@ -9,8 +9,6 @@ The frontend is connected to backend server deployed on **render.com** at https:
 1. **ReactJS**
 2. **SCSS**
 
-# Hos
-
 # How to use
 
 1. Take a clone on your local machine
